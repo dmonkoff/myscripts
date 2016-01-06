@@ -1,0 +1,5 @@
+<div class='fader'></div>
+<div class='popup-wrap send-message-wrap'>
+	<a class='close-write' href='#'>close</a>
+</div>
+<a class="button btn-contact" href="#">open</a>
